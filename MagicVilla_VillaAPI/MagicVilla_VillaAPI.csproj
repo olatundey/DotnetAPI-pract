@@ -29,6 +29,7 @@
     <None Remove="Model\Dto\" />
     <None Remove="Data\" />
     <None Remove="Logging\" />
+    <None Remove="log\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
@@ -36,5 +37,6 @@
     <Folder Include="Model\Dto\" />
     <Folder Include="Data\" />
     <Folder Include="Logging\" />
+    <Folder Include="log\" />
   </ItemGroup>
 </Project>
